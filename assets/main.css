@@ -213,8 +213,8 @@ table td {
 .site-header {
     border-top: 5px solid #424242;
     border-bottom: 1px solid #e8e8e8;
-    min-height: 54px;
-    position: relative;
+    min-height: 55.95px;
+    position: relative
 }
 
 .site-title {
@@ -422,24 +422,27 @@ table td {
 }
 
 .post-content {
-    margin-bottom: 5rem;
+    margin-bottom: 30px;
+    font-size: 15px;
     line-height: 1.75;
+    color: #333;
 }
 
 .post-content h2 {
     font-size: 32px;
-    margin-top: 3rem;
+    margin-top: 2.5rem;
 }
 
 @media screen and (max-width: 800px) {
     .post-content h2 {
         font-size: 28px;
-        margin-top: 2.5rem;
+        margin-top: 2rem;
     }
 }
 
 .post-content h3 {
-    font-size: 26px
+    font-size: 26px;
+    margin-top: 2rem;
 }
 
 @media screen and (max-width: 800px) {
