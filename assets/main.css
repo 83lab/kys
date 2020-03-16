@@ -213,8 +213,8 @@ table td {
 .site-header {
     border-top: 5px solid #424242;
     border-bottom: 1px solid #e8e8e8;
-    min-height: 55.95px;
-    position: relative
+    min-height: 54px;
+    position: relative;
 }
 
 .site-title {
@@ -422,7 +422,8 @@ table td {
 }
 
 .post-content {
-    margin-bottom: 30px
+    margin-bottom: 5rem;
+    line-height: 1.75;
 }
 
 .post-content h2 {
