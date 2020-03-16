@@ -2,7 +2,7 @@
 layout: post
 title:  "Which blog platform should I use?"
 date:   2018-02-13 03:21:09 +0900
-categories: blog
+categories: blog post
 ---
 앞서서 블로그의 필요성을 살펴봤습니다. 
 그럼 이제 블로그를 개설해 봐야 겠습니다. 

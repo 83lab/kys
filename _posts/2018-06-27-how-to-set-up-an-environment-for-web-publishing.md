@@ -2,7 +2,7 @@
 layout: post
 title:  "How to set up an environment for web publishing?"
 date:   2018-06-27 14:51:45 +0900
-categories: web, coding
+categories: web publishing
 ---
 사실 여타 다른 개발(develop)과는 다르게 일반적인 웹 퍼블리싱(Web Publishing)은 특별한 환경이 필요 없습니다. 
 그냥 웹 브라우저에서 디자인된 화면만 잘 출력되면 되기 때문입니다. 

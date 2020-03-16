@@ -2,7 +2,7 @@
 layout: post
 title:  "Why we need to build a blog?"
 date:   2018-02-10 17:48:17 +0900
-categories: blog
+categories: blog post
 ---
 컴퓨터로 밥 벌어먹고 사는 사는 사람들은 대부분 공통적인 경험을 합니다. 
 바로 예전에 수행했던 작업인데도, 그 방법이 생각나지 않아서 다시 처음부터 자료를 찾아보고,﻿ 불필요하게 시행 착오를 거쳤던 경험 말입니다.

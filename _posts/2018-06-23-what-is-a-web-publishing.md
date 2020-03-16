@@ -2,7 +2,7 @@
 layout: post
 title:  "What is a web publishing?"
 date:   2018-06-23 04:23:09 +0900
-categories: web, coding
+categories: web publishing
 ---
 어느 날인가부터 갑자기 코딩이라는 단어가 주위에서 들려오기 시작합니다. 
 그리고 주위에 상당히 많은 분들이 프론트엔드 개발에 관심을 가지고 있으시다는 것을 알게되었습니다. 
