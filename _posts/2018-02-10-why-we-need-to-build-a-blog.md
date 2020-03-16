@@ -2,7 +2,7 @@
 layout: post
 title:  "Why we need to build a blog?"
 date:   2018-02-10 17:48:17 +0900
-categories: jekyll update
+categories: blog
 ---
 컴퓨터로 밥 벌어먹고 사는 사는 사람들은 대부분 공통적인 경험을 합니다. 
 바로 예전에 수행했던 작업인데도, 그 방법이 생각나지 않아서 다시 처음부터 자료를 찾아보고,﻿ 불필요하게 시행 착오를 거쳤던 경험 말입니다.
@@ -10,7 +10,7 @@ categories: jekyll update
 ﻿이러한 불필요한 과정을 피하기 위해서, 그리고 개인적으로 필요한 자료들을 스크랩하기 위해서 적당한 플랫폼이 바로 이런 기술 블로그가 아닐까요? 
 이번 포스트에서는 블로그의 필요성과 개인적으로 블로그를 제작할때 고려한 부분들을 기술하려고 합니다.
 
-Why we need to build a blog
+Why we need to build a blog?
 ---
 
 왜 블로그가 필요할까요? 개인마다 여러 가지 이유가 있겠지만, 제가 생각하는, 제가 블로그를 필요로 하는 이유를 나열해봅니다.
@@ -31,7 +31,7 @@ Why we need to build a blog
 블로그를 통해서 경력을 관리하고, 능력을 보여주며, 새로운 영역으로 나아갈 수 있는 기회를 만나기도 합니다. 
 ﻿어쨌든 스스로를 홍보하는 좋은 통로임에는 틀림이 없습니다.
 
-I consider some point to build a blog
+I consider some point to build a blog.
 ---
 
 위와 같은 이유를 생각해보면서, 블로그를 만들기 위해서 몇 가지 조건들을 생각해 보았습니다. 

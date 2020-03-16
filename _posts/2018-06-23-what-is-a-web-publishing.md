@@ -2,7 +2,7 @@
 layout: post
 title:  "What is a web publishing?"
 date:   2018-06-23 04:23:09 +0900
-categories: jekyll update
+categories: web, coding
 ---
 어느 날인가부터 갑자기 코딩이라는 단어가 주위에서 들려오기 시작합니다. 
 그리고 주위에 상당히 많은 분들이 프론트엔드 개발에 관심을 가지고 있으시다는 것을 알게되었습니다. 
@@ -10,7 +10,7 @@ categories: jekyll update
 
 우선은 이번 포스트에서 웹 퍼블리싱이 무엇인지 기술하려고 합니다. 
 
-What is a web publishing
+What is a web publishing?
 ---
 
 사실 우리가 웹이라고 말하는 모든 것은 웹 퍼블리싱의 결과입니다. 
@@ -22,20 +22,20 @@ What is a web publishing
 이런 코딩 작업에는 HTML, CSS, JavaScript 코드를 만드는 작업도 포함됩니다.
 기본적으로 크로스 브라우징을 생각해야하고, 디바이스에 따른 반응형 디자인을 고려해야합니다. 
 
-### HTML는 문서의 구조를 담당합니다.
+### HTML is related to the structure of web documents.
 
 HTML의 목적은 웹 페이지의 구조와 데이터를 기술하는 것입니다.
-HTML에서의 각 태그(tag)들은 정의된 특정한 의미를 가지고 있습니다. 
+HTML문서 에서는 각 태그(tag)들은 정의된 특정한 의미를 가지고 있습니다. 
 퍼블리셔는 적절한 의미의 태그를 사용함으로써 문서를 구조화 시킵니다. 
 이는 매우 중요한 요소로써, 이러한 구조화가 잘 되어 있을 수록 웹 접근성이 향상되고, 검색 엔진에 최적화됩니다.
 
-### CSS는 문서의 외형을 담당합니다.
+### CSS is related to the design of web documents.
 
 CSS의 목적은 웹 페이지의 외형을 디자인 하는 것입니다.
 웹 표준에서 문서의 구조와 외형 디자인을 정의하는 부분이 분리되어질 것을 권고합니다.
 더불어 잘 정의된 CSS는 추후 유지 관리에도 용이합니다.
 
-### JS는 문서의 동작을 담당합니다.
+### JS is related to the behavior of web documents.
 
 JS는 웹 페이지가 동작할 수 있도록 해 줍니다.
 위에 언급된 HTML과 CSS로는 웹 페이지에서 동적인 모션을 제어할 수 없습니다. 
