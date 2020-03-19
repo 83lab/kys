@@ -26,9 +26,32 @@ About copyright
 Free high-quality image site cleanup
 ---
 
-- **[unsplash](http://www.unsplash.com/)**
-- **[pixabay](https://pixabay.com/)**
+- **[unsplash](http://www.unsplash.com/)**   
+개인적으로 가장 마음에 드는 사이트입니다. 
+이차 가공하여 상업적으로 사용할 수 있습니다.
+사이트 커버나 배너 배경 등으로 사용할 수 있씁니다. 
 
-- **[morguefile](https://morguefile.com/)**
-- **[gratisography](https://gratisography.com/)**
-- **[splitshire](https://www.splitshire.com/)**
+- **[pixabay](https://pixabay.com/)**   
+이미지를 사용하기 위해서 어떤 허가 요청이나 지불이 필요없습니다.
+상업적이든 비상업적이든 이미지를 복사, 수정, 배포할 수 있습니다.
+
+- **[morguefile](https://morguefile.com/)**   
+풍경, 동물 등이 많습니다. 
+사진은 가공을 해야만 무료로 사용할 수 있습니다.
+원본 그대로 사용할 경우에는을 출처를 표기해 주어야 합니다.
+
+- **[picjumbo](http://www.picjumbo.com/)**   
+개인 사이트입니다.
+풍경 사진을 찾아볼 수 있습니다.
+
+- **[gratisography](https://gratisography.com/)**   
+코믹한 이미지가 많이 있습니다. 
+범용적이지는 않습니다만, 테마는 뚜렷합니다.
+
+- **[splitshire](https://www.splitshire.com/)**   
+무료인데, 작품 사진같습니다.
+디자인용으로는 부적합하지만, 멋집니다.
+참! 로딩이 느립니다.
+
+간단히 자주 사용하는 사이트들을 나열해 두었습니다. 
+종종 참고하시기 바랍니다.
