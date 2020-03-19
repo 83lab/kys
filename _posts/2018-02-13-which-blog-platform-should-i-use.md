@@ -38,3 +38,8 @@ Which blog platform will you use?
 그래도 중점을 둘만한 플랫폼으로는 Naver, Jekyll 그리고 T-story 정도인 것 같습니다. 
 
 나중에 비교를 해봐야 겠습니다.
+
+***
+<small>
+아직 초창기 서비스인 velog(https://velog.io/)는 광고가 붙지 않아 일단 보류합니다.
+</small>
