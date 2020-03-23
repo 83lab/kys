@@ -1,5 +1,5 @@
 ---
-layout: post/
+layout: post
 title:  "How can I participate in a video conference using zoom?"
 date:   2020-03-17 09:36:21 +0900
 categories: zoom

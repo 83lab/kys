@@ -1,5 +1,5 @@
 ---
-layout: post/
+layout: post
 title:  "What is a zoom application?"
 date:   2020-03-16 02:11:30 +0900
 categories: zoom

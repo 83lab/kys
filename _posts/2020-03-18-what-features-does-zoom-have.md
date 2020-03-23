@@ -1,5 +1,5 @@
 ---
-layout: post/
+layout: post
 title:  "What features does zoom have?"
 date:   2020-03-18 23:34:58 +0900
 categories: zoom
