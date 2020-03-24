@@ -34,7 +34,7 @@ Install code editor
 우리가 사용할 에디터는 Microsoft에서 배포하는 Visual Studio Code라는 에디터입니다. 
 이 Visual Studio Code는 여러 프로그래밍 언어를 지원합니다. 
 그중에서도 우리는 HTML, CSS, JS(javascript)를 사용할 것입니다. 
-VS Code를 설치하기 위해서는 아래의 링크와 연결된 페이지에서 설치 파일을 다운 받으시면 됩니다.
+VS Code를 설치하기 위해서는 아래의 링크와 연결된 페이지에서 설치 파일을 다운 받으시면 됩니다.   
 [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 이제는 효율적으로 작업을 진행하기 위해서 몇 개의 플러그인을 설치하고자 합니다.
@@ -49,27 +49,24 @@ VS Code의 장점이 바로 이런 수 많은 플러그인을 설치할 수 있�
 Install plug-in
 ---
 
-**VS Code 첫 화면**
-
+- **VS Code 첫 화면**
 VS Code의 첫 화면입니다.
 Microsoft에서는 이런 간결한 디자인으로 전부 뽑으려나봅니다. 
 메뉴들을 보면 파일을 불러오거나 git에 접근하거나, 디버깅을 위한 메뉴들이 있지만, 그런건 지금 중요하지 않습니다.    
 ![welcome page](/kys/assets/img/2018-06-27-post-01.png)   
 우선은 이 화면에서 왼쪽의 네개의 아이콘 중에 맨 아래의 블럭 모양의 아이콘 extensions를 클릭하면 두번째 사진과 같은 ui로 바뀌는 것을 알 수 있습니다.
 
-**플러그인 검색**
-
+- **플러그인 검색**
 extensions에서는 플러그인을 검색할 수 있습니다. 
 간단하게 CSS 관련 플러그인을 찾기위해서 검색어 'CSS'를 입력하면 관련 플러그인들이 나옵니다.    
 ![search plug-in](/kys/assets/img/2018-06-27-post-02.png)
 많이도 나오지만, 우리는 IntelliSense for CSS class names in HTML만 찾으면 됩니다.   
 
-**플러그인 설치**
-
+- **플러그인 설치**
 원하는 플러그인을 찾으셨다면 "install" 버튼만 클릭해주면 됩니다. 
 이제 우리가 찾은 "IntelliSense for CSS class names in HTML"이라는 플러그인이 설치되었습니다.
 오른쪽은 위에 언급된 플러그인들이 모두 설치된 화면입니다.   
-![installed plug-in](/kys/assets/img/2018-06-27-post-03.png)  
+![installed plug-in](/kys/assets/img/2018-06-27-post-03.png)   
 이 외에도 많은 플러그인들이 있으므로 필요에 맞춰서 플러그인을 설치 및 제거하여 더 쾌적하게 퍼블을 할 수 있을 것입니다.
 
 ***
