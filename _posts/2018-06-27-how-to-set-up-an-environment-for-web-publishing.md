@@ -19,11 +19,11 @@ Install web browser
 
 인터넷 익스플로어를 설치하기 위해서는 아래의 링크와 연결된 페이지에서 설치 파일을 다운 받으시면 됩니다.   
 사실 윈도우 컴퓨터의 경우에는 기본적으로 설치 되어 있습니다.   
-https://support.microsoft.com/ko-kr/help/17621/internet-explorer-downloads
+[https://support.microsoft.com/ko-kr/help/17621/internet-explorer-downloads](https://support.microsoft.com/ko-kr/help/17621/internet-explorer-downloads)
 
 구글 크롬을 설치하기 위해서는 아래의 링크와 연결된 페이지에서 설치 파일을 다운 받으시면 됩니다.   
 저는 주로 크롬을 사용합니다.   
-https://www.google.co.kr/chrome/
+[https://www.google.co.kr/chrome/](https://www.google.co.kr/chrome/)
 
 Install code editor
 ---
@@ -35,7 +35,7 @@ Install code editor
 이 Visual Studio Code는 여러 프로그래밍 언어를 지원합니다. 
 그중에서도 우리는 HTML, CSS, JS(javascript)를 사용할 것입니다. 
 VS Code를 설치하기 위해서는 아래의 링크와 연결된 페이지에서 설치 파일을 다운 받으시면 됩니다.
-https://code.visualstudio.com/
+[https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 이제는 효율적으로 작업을 진행하기 위해서 몇 개의 플러그인을 설치하고자 합니다.
 VS Code의 장점이 바로 이런 수 많은 플러그인을 설치할 수 있다는 것입니다.   
