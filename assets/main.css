@@ -41,7 +41,7 @@ h5,
 h6,
 p,
 blockquote,
-pre,
+pre,.post-content
 ul,
 ol,
 dl,
@@ -459,6 +459,14 @@ table td {
     .post-content h4 {
         font-size: 18px
     }
+}
+
+.post-content img {
+    width: 100%;
+}
+
+.post-content img + img {
+    margin-top: .25rem;
 }
 
 .highlight {
