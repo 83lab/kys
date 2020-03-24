@@ -18,11 +18,11 @@ Install web browser
 사실상 이 두 브라우저가 거의 독식을 하고 있기 때문에, 가장 우선적으로 고려되는 웹 브라우저입니다.
 
 인터넷 익스플로어를 설치하기 위해서는 아래의 링크와 연결된 페이지에서 설치 파일을 다운 받으시면 됩니다.   
-사실 윈도우 컴퓨터의 경우에는 기본적으로 설치 되어 있습니다.
+사실 윈도우 컴퓨터의 경우에는 기본적으로 설치 되어 있습니다.   
 https://support.microsoft.com/ko-kr/help/17621/internet-explorer-downloads
 
 구글 크롬을 설치하기 위해서는 아래의 링크와 연결된 페이지에서 설치 파일을 다운 받으시면 됩니다.   
-저는 주로 크롬을 사용합니다.
+저는 주로 크롬을 사용합니다.   
 https://www.google.co.kr/chrome/
 
 Install code editor
