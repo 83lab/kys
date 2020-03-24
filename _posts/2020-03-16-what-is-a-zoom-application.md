@@ -32,23 +32,21 @@ ZOOM은 어떻게 설치합니까?
 이제 간단하게 Zoom을 설치 해보겠습니다.
 
 안드로이드 데블렛과 폰에서는 구글 스토어에서 'Zoom'을 검색하시면 바로 다운로드 및 설치가 가능합니다.   
-https://play.google.com/store/apps/details?id=us.zoom.videomeetings
+[https://play.google.com/store/apps/details?id=us.zoom.videomeetings](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
 
 i-Pad나 i-Phone 에서는 앱스토에서 'Zoom'을 검색하시면 바로 다운로드 및 설치가 가능합니다.   
-https://apps.apple.com/us/app/zoom-cloud-meetings/id546505307
+[https://apps.apple.com/us/app/zoom-cloud-meetings/id546505307](https://apps.apple.com/us/app/zoom-cloud-meetings/id546505307)
 
-윈도우 노트북에서는 Zoom 홈페이지(https://zoom.us/)에 방문하셔서 관련프로그램을 다운 받으셔야합니다.
+윈도우 노트북에서는 Zoom 홈페이지[(https://zoom.us/)](https://zoom.us/)에 방문하셔서 관련프로그램을 다운 받으셔야합니다.
 그러데 다운 받는 다운로드 센터가 좀 숨겨져 있습니다. 
 
-[이미지]
-
 홈페이지 제일 하단에 위치한 메뉴 가운데 '다운로드 > 회의 클라이언트'를 클릭하시면 다운로드 센터에 접근이 가능합니다.  
-https://zoom.us/download#room_client
+[https://zoom.us/download#room_client](https://zoom.us/download#room_client)
 
 그 가운데서도 제일 상단에 위치한 '회의용 Zoom 클라이언트'를 다운받으셔서 설치하시면 되겠습니다.  
 <small>
 (참고 : 로그인 후에 회의를 개설하면 자동으로 관련 프로그램이 다운로드 되지만, 추후에 회의 개설과 관련해서 다룰 것입니다.)
 </small>  
-https://zoom.us/client/latest/ZoomInstaller.exe
+[https://zoom.us/client/latest/ZoomInstaller.exe](https://zoom.us/client/latest/ZoomInstaller.exe)
 
 이제 Zoom의 설치는 끝났습니다. 이어서 어떻게 사용할 수 있는지 살펴볼 것입니다.
