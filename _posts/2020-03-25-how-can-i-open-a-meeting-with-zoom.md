@@ -1,21 +1,39 @@
 ---
 layout: post
-title:  "How can I open a meeting with zoom? Host"
+title:  "How can I open a meeting with zoom?"
 date:   2020-03-25 21:53:00 +0900
 categories: zoom
 ---
 이제 회의를 열기위해서 회의방을 개설해야 합니다. 회의에서는 특히 화상 회의에서는 호스트(host)로서 할일이 많습니다. 
 아래 그 방법들을 나열하고자 합니다.
 
-ZOOM은 무엇입니까?
+ZOOM으로 화상회의를 개설하는 방법?
 ---
 
 ![setting](/kys/assets/img/2020-03-25-post-01.png)
 ![setting](/kys/assets/img/2020-03-25-post-02.png)
 ![setting](/kys/assets/img/2020-03-25-post-03.png)
 ![setting](/kys/assets/img/2020-03-25-post-04.png)
-![setting](/kys/assets/img/2020-03-25-post-05.png)
-![setting](/kys/assets/img/2020-03-25-post-06.png)
+
+ZOOM으로 어떻게 화면을 공유합니까?
+---
+
+Zoom으로는 컴퓨터 화면의 일부를 공유할 수 있습니다. 
+이 기능을 사용해서 **영상**이나 **삽화**를 함께 볼 수 있습니다. 
+심지어 화면의 마우스 이동을 함께 보실 수도 있습니다.
+이제 그 방법을 나열하려고 합니다. 
+기능은 막강하지만, 방법은 간단합니다.
+
+- ![setting](/kys/assets/img/2020-03-25-post-05.png)    
+화면 하단에 위치한 화면공유 버튼을 클릭해주세요. 
+그러면 공유할 화면을 선택할 수 있는 새로운 창이 생성됩니다.
+
+- ![setting](/kys/assets/img/2020-03-25-post-06.png)   
+이 새로운 창에서 두가지 옵션이 있습니다. 
+'컴퓨터 소리 공유'와 '비디오 클립을 위한 화면 공유 최적화' 옵션입니다.
+영상을 공유한다면, 이 두 옵셥을 반드시 활성화 시켜야 합니다. 
+**'컴퓨터 소리 공유'** 옵션이 활성화되어 있지 않으면, 영상의 소리가 송출되지 않습니다.
+**'최적화'** 옵션이 활성화되어 있지 않으면, 영상을 압축하지 않습니다.
 
 화상 회의에서는 호스트(host)는 정말 중요합니다. 
 그러므로 사용방법을 잘 익혀두어야 겠습니다.
