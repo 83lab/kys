@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is a zoom application?"
+title:  "How can I open a meeting with zoom? Host"
 date:   2020-03-25 21:53:00 +0900
 categories: zoom
 ---
