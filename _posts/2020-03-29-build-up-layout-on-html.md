@@ -64,8 +64,6 @@ Build up layout
     <title>Build up layout</title>
 </head>
 
-<!-- 위의 부분은 우선은 신경쓰지 않으셔도 됩니다. 웹 페이지의 몸을 의미하는 body 부분을 주로 살필 것입니다. -->
-
 <body>
 
     <!-- header 영역 -->
@@ -146,6 +144,7 @@ Build up layout
 
 이제 디자인을 입히기 위해서 css 파일을 만들어 보겠습니다.
 
+***
 <small>
 시맨틱 웹 (위키백과) : https://ko.wikipedia.org/wiki/%EC%8B%9C%EB%A7%A8%ED%8B%B1_%EC%9B%B9
 </small>
