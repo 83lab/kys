@@ -39,6 +39,7 @@ Zoom에서는 발언권을 얻기위해서 '손들기' 기능이있습니다.
 다른 참여자께서 발언권을 얻었다면, 다시 손들기 버튼을 클릭하셔서 손을 내려주시기 바랍니다.   
 ![control zoom](/kys/assets/img/2020-03-18-post-03.png)      
 ![control zoom](/kys/assets/img/2020-03-18-post-04.png)      
+![control zoom](/kys/assets/img/2020-03-18-post-05.png)      
 이해를 돕기위해 이미지를 첨부합니다.
 
 화면 공유 기능
