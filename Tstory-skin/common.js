@@ -1,4 +1,5 @@
 $(function () {
+
     $('.article_content').find('table').each(function (idx, el) {
         $(el).wrap('<div class="table-overflow">')
     });
@@ -8,7 +9,7 @@ $(function () {
 
         if ($('#wrap').has('menu_on')) {
             $('#container').removeClass('search_on');
-            $('.search-section').hide();
+            // $('.search-section').hide();
         }
     }
 
@@ -27,48 +28,39 @@ $(function () {
             menuToggle();
         } else if ($target.closest('.toggle-btn-search').length > 0) {
             searchToggle();
-        // } else if ($target.closest('.area_search').length == 0 && $target.closest('.area_menu').length == 0) {
-        //     $('.header').removeClass('menu_on');
-        //     $('#container').removeClass('search_on');
-        //     $('.area_search').hide();
+            // } else if ($target.closest('.area_search').length == 0 && $target.closest('.area_menu').length == 0) {
+                // $('.header').removeClass('menu_on');
+                // $('#container').removeClass('search_on');
+                // $('.area_search').hide();
         }
     });
 
+    $('.header .btn-search-del').bind('click', function () {
+        var search_value = $('.header .input-search').val();
+        if (search_value) {
+            $('.header .input-search').val('').focus();
+        } else {
+            $('.header .input-search').val('')
+            searchToggle()
+        }
+    });
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    // $('#header .area_search .btn_search_del').bind('click', function () {
-    //     var search_value = $('#header .area_search .inp_search').val();
-    //
-    //     if (search_value) {
-    //         $('#header .area_search .inp_search').val('').focus();
-    //     } else {
-    //         $('#header .area_search .inp_search').val('')
-    //         searchToggle()
-    //     }
+    // $("#searchButton").click(function () {
+        // var searchCheck = 0;
+        // if ($(".input-search").val() == "") {
+            // alert("검색어를 입력해 주세요.")
+            // $(".input-search").focus(); //커서입력
+            // return false;
+        // }
     // });
+
+
+
+
+
+
+
+
 
     $('.btn_fold').bind('click', function () {
         $('.box_comment_list').slideUp();

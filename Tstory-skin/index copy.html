@@ -2,20 +2,20 @@
 <html lang="ko">
 
 <head>
-
+    
     <meta charset="utf-8" />
 
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
-
+    
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1, shrink-to-fit=no, user-scalable=no">
     <meta name="author" content="">
     <meta name="description" Content="[##_desc_##]" />
-
-    <meta name="theme-color" content="#333">
+    
+    <meta name="theme-color" content="#e64628">
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
-
+    
     <title>[##_page_title_##] :: [##_title_##]</title>
     <meta name="title" content="[##_page_title_##] :: [##_title_##]" />
 
@@ -23,13 +23,16 @@
     <link rel="alternate" type="application/rss+xml" title="[##_title_##]" href="[##_rss_url_##]" />
 
     <link rel="stylesheet" href="./style.css">
+    <!-- jquery 새로 연결해주세요. -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
+    <script src="./images/function.js"></script>
 
 </head>
 
 <body id="[##_body_id_##]" class="<s_if_var_layout-type>[##_var_layout-type_##] </s_if_var_layout-type><s_if_var_color-type>[##_var_color-type_##] </s_if_var_color-type><s_if_var_post-type>[##_var_post-type_##] </s_if_var_post-type><s_if_var_view-more>paging-view-more</s_if_var_view-more>">
 
     <s_t3>
-        
+    
         <div id="acc-nav">
             <a href="#content">본문 바로가기</a>
         </div>
@@ -37,7 +40,7 @@
         <div id="wrap">
 
             <header id="header" class="header">
-                <div class="header-container">
+                <div class="inner-container">
 
                     <!-- brand section -->
                     <section class="brand-section">
@@ -58,46 +61,45 @@
 
                     <div class="widget-wrap">
 
-                        <!-- widget-section -->
+                        <!-- widget section -->
                         <section class="widget-section">  
                             <button type="button" class="btn-toggle-widget">
-                                <i class="fas fa-search"></i>
-                                <span class="blind">위젯</span>
+                                <span>검색</span>
                             </button>
                             <div class="inner-container">
-                                <div class="sidebar-group-1">
+                                <div class="sidebar-1">
                                     <s_sidebar>
                                         <!-- section for search -->
                                         <s_sidebar_element>
                                             <!-- 검색 모듈 -->
-                                            <div class="search-module">
+                                            <div class="search">
                                                 <h2>검색</h2>
                                                 <s_search>
                                                     <fieldset>
-                                                        <input type="text" name="[##_search_name_##]" value="" placeholder="검색어를 입력하세요." onkeypress="if (event.keyCode == 13 ) { [##_search_onclick_submit_##] }">
-                                                        <button type="button" onclick="[##_search_onclick_submit_##]">
-                                                            <i class="fas fa-search"></i>
-                                                            <span class="blind">검색</span>
-                                                        </button>
+                                                        <input type="text" name="[##_search_name_##]" value=""
+                                                            placeholder="검색어를 입력하세요."
+                                                            onkeypress="if (event.keyCode == 13 ) { [##_search_onclick_submit_##] }">
+                                                        <button type="button"
+                                                            onclick="[##_search_onclick_submit_##]">검색</button>
                                                     </fieldset>
                                                 </s_search>
                                             </div>
                                         </s_sidebar_element>
                                         <s_sidebar_element>
                                             <!-- 태그 리스트 -->
-                                            <div class="tag-module">
+                                            <div class="tags">
                                                 <h2>태그</h2>
-                                                <div class="tag-item">
+                                                <div class="items">
                                                     <s_random_tags>
                                                         <a href="[##_tag_link_##]">[##_tag_name_##]</a>
                                                     </s_random_tags>
                                                 </div>
-                                                <!-- <a href="/tag" class="more">더보기</a> -->
+                                                <a href="/tag" class="more">더보기</a>
                                             </div>
                                         </s_sidebar_element>
                                     </s_sidebar>
-                                </div> <!-- /.sidebar-group-1 -->
-                                <div class="sidebar-group-2">
+                                </div>
+                                <div class="sidebar-2">
                                     <s_sidebar>
                                         <!-- post list for search -->
                                         <s_sidebar_element>
@@ -112,61 +114,87 @@
                                             </div>
                                         </s_sidebar_element>
                                     </s_sidebar>
-                                </div> <!-- /.sidebar-group-2 -->
-                            </div> <!-- /.inner-container -->
+                                </div>
+                            </div>
                         </section> <!-- /.widget-section -->
 
-                        <!-- menu-section -->
                         <section class="menu-section">
                             <button type="button" class="btn-toggle-menu">
-                                <i class="fas fa-bars"></i>
-                                <span class="blind">메뉴</span>
+                                <span>메뉴</span>
                             </button>
                             <div class="inner-container">
                                 <nav class="nav">
-                                    <!-- [##_blog_menu_##] -->
+                                    [##_blog_menu_##]
                                     [##_category_list_##]
                                 </nav>
-                            </div> <!-- /.inner-container -->
+                            </div>
                         </section> <!-- /.menu-section -->
 
                     </div> <!-- /.section-wrap -->
 
                 </div> <!-- /.inner-container -->
             </header> <!-- /.header -->
+            
 
-            <section class="content-container">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <hr>
+            <section class="container">
                 <article id="content">
 
                     <s_cover_group>
                         <s_cover_rep>
-
-                            <!-- 슬라이더 -->
                             <s_cover name='cover-slider'>
-                                <section class='cover-slider'>
+                                <div class='cover-slider'>
                                     <ul>
                                         <s_cover_item>
-                                            <li>
+                                            <li
+                                                style="background-image: url(<s_cover_item_thumbnail>[##_cover_item_thumbnail_##]</s_cover_item_thumbnail>)">
                                                 <a href="[##_cover_item_url_##]" class="text-box">
-                                                    <div class="" style="background-image: url(<s_cover_item_thumbnail>[##_cover_item_thumbnail_##]</s_cover_item_thumbnail>)">
-
                                                     <span class="title">
                                                         <s_cover_item_article_info>
                                                             <em>[##_cover_item_category_##]</em>
                                                         </s_cover_item_article_info>
                                                         [##_cover_item_title_##]
                                                     </span>
-                                                    <span class="btn view">Read more...</span>
+                                                    <span class="btn view">더보기</span>
                                                 </a>
                                             </li>
                                         </s_cover_item>
                                     </ul>
-                                </section> <!-- /.cover-slider -->
+                                </div>
                             </s_cover>
 
                             <s_cover name='cover-thumbnail-list-1'>
                                 <div class="cover-thumbnail-list-1">
-                                    <h2>[##_cover_title_##]</h2>
+                                    <!-- <h2>[##_cover_title_##]</h2> -->
                                     <ul>
                                         <s_cover_item>
                                             <li>
@@ -554,9 +582,9 @@
                     </s_paging>
 
                 </article>
-                <aside id="aside">
+                <section id="aside">
                     <div class="inner">
-                        <div class="sidebar-1">
+                        <div class="sidebar-3">
                             <s_sidebar>
                                 <s_sidebar_element>
                                     <!-- 공지사항 -->
@@ -573,54 +601,6 @@
                                     </s_rct_notice>
                                 </s_sidebar_element>
                                 <s_sidebar_element>
-                                    <!-- 최근 포스트 -->
-                                    <div class="posts">
-                                        <h2>최근 포스트</h2>
-                                        <ul>
-                                            <s_rctps_rep>
-                                                <li><a href="[##_rctps_rep_link_##]">[##_rctps_rep_title_##]</a></li>
-                                            </s_rctps_rep>
-                                        </ul>
-                                    </div>
-                                </s_sidebar_element>
-                            </s_sidebar>
-                        </div>
-
-                        <div class="sidebar-2">
-                            <s_sidebar>
-                                <s_sidebar_element>
-                                    <!-- 태그 -->
-                                    <div class="tags">
-                                        <h2>태그</h2>
-                                        <div class="items">
-                                            <s_random_tags>
-                                                <a href="[##_tag_link_##]">[##_tag_name_##]</a>
-                                            </s_random_tags>
-                                        </div>
-                                        <a href="/tag" class="more">더보기</a>
-                                    </div>
-                                </s_sidebar_element>
-                            </s_sidebar>
-                        </div>
-
-                        <div class="sidebar-3">
-                            <s_sidebar>
-                                <s_sidebar_element>
-                                    <!-- 검색 -->
-                                    <div class="search">
-                                        <h2>검색</h2>
-                                        <s_search>
-                                            <fieldset>
-                                                <input type="text" name="[##_search_name_##]" value=""
-                                                    placeholder="검색내용을 입력하세요."
-                                                    onkeypress="if (event.keyCode == 13 ) { [##_search_onclick_submit_##] }">
-                                                <button type="button"
-                                                    onclick="[##_search_onclick_submit_##]">검색</button>
-                                            </fieldset>
-                                        </s_search>
-                                    </div>
-                                </s_sidebar_element>
-                                <s_sidebar_element>
                                     <!-- 전체 방문자 -->
                                     <div class="count">
                                         <h2>전체 방문자</h2>
@@ -634,7 +614,7 @@
                             </s_sidebar>
                         </div>
                     </div>
-                </aside>
+                </section>
             </section>
             <hr>
             <footer id="footer">
@@ -642,11 +622,7 @@
                 </p>
             </footer>
         </div>
-        
     </s_t3>
 </body>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
-<script src="./images/function.js"></script>
 
 </html>
